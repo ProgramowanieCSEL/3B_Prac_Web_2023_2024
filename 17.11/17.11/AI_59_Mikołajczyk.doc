@@ -1,2 +1,0 @@
-switch jest wygodniejszy niż if,elseif oraz else ponieważ mamy czytelniejszy kod ponieważ w instrukcjach if..., musimy co chwile pisac if lub else lub else if gdzie
-switch wystarczy napisac raz i za kazdym razem case dla jakiegoś warunku oraz default co jest odpowiednikiem else
