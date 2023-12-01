@@ -1,0 +1,5 @@
+Korzyści jakie wynikają ze stosowania pętli for,while,do while, foreach itd. to np. oszczędność czasu.
+Programista nie musi pisać tego samego wiele razy, wystarczy wpisać pętle i kod, który chcemy wykonać wiele razy
+Następna korzyść to czytelność kodu, która pozwala przeczytać jedną petlę i wiadomo co się wykona, natomiast przy wielu 
+warunkach tego samego celu całość kodu bedzie niechlujna i źle wyglądajaca
+
