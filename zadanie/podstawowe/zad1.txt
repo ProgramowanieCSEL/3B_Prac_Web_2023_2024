@@ -1,0 +1,10 @@
+
+GET
+
+Wady: Widoczność wrażliwych danych, Ograniczenie przesyłu danych
+Zalety: Brak konieczności formularza
+
+POST
+
+Zalety: Ukrycie danych
+Wady: Wolniejsze przesyłanie
